@@ -1,2 +1,1 @@
-# project001
-first of many
+basic c++

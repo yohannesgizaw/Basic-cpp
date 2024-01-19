@@ -21,7 +21,6 @@ struct Course {
 };
 void getStudentData(Student&);
 void getCourseData(Course[], int&); 
-void addCourse(Course[], int&);
 void displayReport(Student, Course[], int);
 
 int main() {
